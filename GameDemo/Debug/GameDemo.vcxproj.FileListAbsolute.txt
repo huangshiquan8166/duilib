@@ -1,0 +1,2 @@
+E:\duilib\bin\GameDemo.pdb
+E:\duilib\GameDemo\Debug\GameDemo.pdb

@@ -1,0 +1,2 @@
+E:\duilib\bin\TestApp1.pdb
+E:\duilib\TestApp1\Debug\TestApp1.pdb

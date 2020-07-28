@@ -1,0 +1,2 @@
+E:\duilib\bin\ListDemo.pdb
+E:\duilib\ListDemo\Debug\ListDemo.pdb
