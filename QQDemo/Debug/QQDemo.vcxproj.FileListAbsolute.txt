@@ -1,2 +1,0 @@
-E:\duilib\bin\QQDemo.pdb
-E:\duilib\QQDemo\Debug\QQDemo.pdb

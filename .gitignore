@@ -28,3 +28,16 @@ FlashDemo/FlashDemo.vcproj.wengmq-PC.wengmq.user
 QQDemo/Debug/mt.dep
 *.dep
 *.map
+.vs
+*.autosave
+*.db
+Debug
+Release
+Makefile
+Makefile.*
+*.opendb
+build
+Debug
+Release
+Debug_u
+Release_u
