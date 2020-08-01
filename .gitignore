@@ -41,3 +41,6 @@ Debug
 Release
 Debug_u
 Release_u
+*.VC.db
+*.exp
+.suo
